@@ -1,2 +1,2 @@
 # rproject1
-classification of korean newspapers using naive bayes 
+my little projects using r
